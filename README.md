@@ -8,9 +8,6 @@
 
 - 📄 Download My CV [here.](https://iiierie.github.io/uploads/resume.pdf)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
