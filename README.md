@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm sandeshrestha</h1>
-<h3 align="center">a passionate third year CS undergrad</h3>
+<h2 align="center">Hi , i'm sandeshrestha. </h2>
+
+<h4 align="center">a passionate third year CS undergrad</h4>
 
 <p align="left"> <a href="https://twitter.com/iiierie" target="blank"><img src="https://img.shields.io/twitter/follow/iiierie?logo=twitter&style=for-the-badge" alt="iiierie" /></a> </p>
 
-- 📝 I regularly write articles on [https://iiierie.github.io/post/](https://iiierie.github.io/post/)
+- 📝 I regularly write articles [here.](https://iiierie.github.io/post/)
 
-- 📄 Know about my experiences [https://iiierie.github.io/uploads/resume.pdf](https://iiierie.github.io/uploads/resume.pdf)
+- 📄 Download My CV [here.](https://iiierie.github.io/uploads/resume.pdf)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
