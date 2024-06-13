@@ -2,6 +2,8 @@
 
 <h4 align="center">a passionate third year CS undergrad</h4>
 
+<h3> https://iiierie.github.io/ </h3>
+
 <p align="left"> <a href="https://twitter.com/iiierie" target="blank"><img src="https://img.shields.io/twitter/follow/iiierie?logo=twitter&style=for-the-badge" alt="iiierie" /></a> </p>
 
 - 📝 I regularly write articles [here.](https://iiierie.github.io/post/)
