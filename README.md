@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/iiierie" target="blank"><img src="https://img.shields.io/twitter/follow/iiierie?logo=twitter&style=for-the-badge" alt="iiierie" /></a> </p>
 
-- 📝 I regularly write articles [here.](https://iiierie.github.io/post/)
+- 📝 I regularly write articles [here](https://iiierie.github.io/post/) and [here as well.](https://medium.com/@iiierie/)
 
 - 📄 Download My CV [here.](https://iiierie.github.io/uploads/resume.pdf)
 
